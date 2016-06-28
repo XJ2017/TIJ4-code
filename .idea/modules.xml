@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TIJ4-code.iml" filepath="$PROJECT_DIR$/TIJ4-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access/access.iml" filepath="$PROJECT_DIR$/access/access.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotations/annotations.iml" filepath="$PROJECT_DIR$/annotations/annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bangbean/bangbean.iml" filepath="$PROJECT_DIR$/bangbean/bangbean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrency/concurrency.iml" filepath="$PROJECT_DIR$/concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/containers/containers.iml" filepath="$PROJECT_DIR$/containers/containers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/control/control.iml" filepath="$PROJECT_DIR$/control/control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enumerated/enumerated.iml" filepath="$PROJECT_DIR$/enumerated/enumerated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frogbean/frogbean.iml" filepath="$PROJECT_DIR$/frogbean/frogbean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gui/gui.iml" filepath="$PROJECT_DIR$/gui/gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/holding/holding.iml" filepath="$PROJECT_DIR$/holding/holding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/initialization/initialization.iml" filepath="$PROJECT_DIR$/initialization/initialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/innerclasses/innerclasses.iml" filepath="$PROJECT_DIR$/innerclasses/innerclasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/io/io.iml" filepath="$PROJECT_DIR$/io/io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/net/net.iml" filepath="$PROJECT_DIR$/net/net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object/object.iml" filepath="$PROJECT_DIR$/object/object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/operators.iml" filepath="$PROJECT_DIR$/operators/operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reusing/reusing.iml" filepath="$PROJECT_DIR$/reusing/reusing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swt/swt.iml" filepath="$PROJECT_DIR$/swt/swt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/typeinfo/typeinfo.iml" filepath="$PROJECT_DIR$/typeinfo/typeinfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml/xml.iml" filepath="$PROJECT_DIR$/xml/xml.iml" />
+    </modules>
+  </component>
+</project>

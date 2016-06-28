@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="access" />
+        <module name="annotations" />
+        <module name="arrays" />
+        <module name="bangbean" />
+        <module name="concurrency" />
+        <module name="containers" />
+        <module name="control" />
+        <module name="enumerated" />
+        <module name="exceptions" />
+        <module name="frogbean" />
+        <module name="generics" />
+        <module name="gui" />
+        <module name="holding" />
+        <module name="initialization" />
+        <module name="innerclasses" />
+        <module name="interfaces" />
+        <module name="io" />
+        <module name="net" />
+        <module name="object" />
+        <module name="operators" />
+        <module name="polymorphism" />
+        <module name="reusing" />
+        <module name="strings" />
+        <module name="swt" />
+        <module name="typeinfo" />
+        <module name="xml" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="access" target="1.7" />
+      <module name="annotations" target="1.7" />
+      <module name="arrays" target="1.7" />
+      <module name="bangbean" target="1.7" />
+      <module name="concurrency" target="1.7" />
+      <module name="containers" target="1.7" />
+      <module name="control" target="1.7" />
+      <module name="enumerated" target="1.7" />
+      <module name="exceptions" target="1.7" />
+      <module name="frogbean" target="1.7" />
+      <module name="generics" target="1.7" />
+      <module name="gui" target="1.7" />
+      <module name="holding" target="1.7" />
+      <module name="initialization" target="1.7" />
+      <module name="innerclasses" target="1.7" />
+      <module name="interfaces" target="1.7" />
+      <module name="io" target="1.7" />
+      <module name="net" target="1.7" />
+      <module name="object" target="1.7" />
+      <module name="operators" target="1.7" />
+      <module name="polymorphism" target="1.7" />
+      <module name="reusing" target="1.7" />
+      <module name="strings" target="1.7" />
+      <module name="swt" target="1.7" />
+      <module name="TIJ4-code" target="1.5" />
+      <module name="typeinfo" target="1.7" />
+      <module name="xml" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
